@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0b7e1b3-140f-4553-aba4-33ec9332da19" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pb2/MainApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pb2/PerecheNumere.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/perecheNumere.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TPerecheNumere.java" afterDir="false" />
-    </list>
+    <list default="true" id="f0b7e1b3-140f-4553-aba4-33ec9332da19" name="Changes" comment="tema5" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +39,8 @@
     "onboarding.tips.debug.path": "C:/Users/Flavius/IdeaProjects/tema5/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -62,6 +52,27 @@
       <option name="presentableId" value="Default" />
       <updated>1736709297976</updated>
     </task>
+    <task id="LOCAL-00001" summary="tema5">
+      <option name="closed" value="true" />
+      <created>1736711957353</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736711957353</updated>
+    </task>
+    <task id="LOCAL-00002" summary="tema5">
+      <option name="closed" value="true" />
+      <created>1736712115200</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1736712115200</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="tema5" />
+    <option name="LAST_COMMIT_MESSAGE" value="tema5" />
   </component>
 </project>
